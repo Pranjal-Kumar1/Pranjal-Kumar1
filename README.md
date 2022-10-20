@@ -1,3 +1,4 @@
+![logo](https://miro.medium.com/max/850/0*7ipMq8VAuzJLSZeV.jpg)
 <h1 align="center">Hi 👋, I'm Pranjal Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
