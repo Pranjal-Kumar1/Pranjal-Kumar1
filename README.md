@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, DSA, Front-end**
 
-- 📫 How to reach me **pranjal.glau@gmail.com**
+- 📫 How to reach me **pranjalkumar.glau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
