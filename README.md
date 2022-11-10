@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java, DSA, Front-end, Back-end, AI & ML, Blockchain**
+- 💬 Ask me about **Java, DSA, Front-end, Back-end, AI & ML, Blockchain,Cloud Computing**
 
 - 📫 How to reach me **pranjalkumar.glau@gmail.com**
 
