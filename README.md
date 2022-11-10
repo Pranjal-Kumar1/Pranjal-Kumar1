@@ -1,6 +1,6 @@
 ![logo](https://miro.medium.com/max/850/0*7ipMq8VAuzJLSZeV.jpg)
 <h1 align="center">Hi 👋, I'm Pranjal Kumar</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A Fullstack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal-kumar1&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal-kumar1" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and Java**
 
-- 💬 Ask me about **Java, DSA, Front-end, Back-end, AI & ML, Blockchain,Cloud Computing**
+- 💬 Ask me about **Java, DSA, Front-end, Back-end, AI & ML, Blockchain, Cloud Computing**
 
 - 📫 How to reach me **pranjalkumar.glau@gmail.com**
 
