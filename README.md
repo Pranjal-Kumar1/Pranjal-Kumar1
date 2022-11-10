@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and Java along with some  **
+- 🌱 I’m currently learning **Web Development and Java along with JavaScript**
 
 - 💬 Ask me about **Java, DSA, Front-end, Back-end, AI & ML, Blockchain, Cloud Computing**
 
