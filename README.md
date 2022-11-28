@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development and Java with DSA**
 
-- 💬 Ask me about **Java, DSA, Front-end, Back-end, AI & ML**
+- 💬 Ask me about **Java, DSA and Fullstack Development**
 
 - 📫 How to reach me **pranjalkumar.glau@gmail.com**
 
