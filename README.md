@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, DSA and Fullstack Development**
 
-- 📫 How to reach me **pranjalkumar.glau@gmailcom**
+- 📫 How to reach me **pranjalkumar.glau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
