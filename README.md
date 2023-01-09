@@ -1,5 +1,5 @@
 ![logo](https://miro.medium.com/max/850/0*7ipMq8VAuzJLSZeV.jpg)
-<h1 align="center">Hi 👋, 'm Pranjal Kumar</h1>
+<h1 align="center">Hi 👋, I'm Pranjal Kumar</h1>
 <h2 align="center">Student - B.Tech(CSE) >><< GLA University, Mathura </h2>
 <h3 align="center">A Fullstack Developer from India</h3>
 
