@@ -1,6 +1,6 @@
 ![logo](https://miro.medium.com/max/850/0*7ipMq8VAuzJLSZeV.jpg)
 <h1 align="center">Hi 👋, I'm Pranjal Kumar</h1>
-<h2 align="center">Student - B.Tech(CSE) > GLA University, Mathura </h2>
+<h2 align="center">Student - B.Tech(CSE) -> GLA University, Mathura </h2>
 <h3 align="center">A Fullstack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal-kumar1&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal-kumar1" /> </p>
